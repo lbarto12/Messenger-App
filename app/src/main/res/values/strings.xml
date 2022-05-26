@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">messenger</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="contacts">Contacts</string>
+    <string name="profile">Profile</string>
+</resources>
